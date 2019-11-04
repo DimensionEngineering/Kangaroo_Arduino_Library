@@ -4,8 +4,8 @@ http://www.dimensionengineering.com/kangaroo
 
 Version 1.0.6 (27 November 2015)
 - Added support for the 2015-10-23 firmware update:
-  - 'only if necessary' option for start() and home()
-  - Position and speed setpoint increment commands
+    - 'only if necessary' option for start() and home()
+    - Position and speed setpoint increment commands
 
 Version 1.0.5 (14 June 2014)
 - Added KANGAROO_SYS_TUNE_ABORT.
